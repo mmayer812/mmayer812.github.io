@@ -627,6 +627,10 @@
 					color: white;
 				}
 
+				#nav > ul > li.active {
+					background: rgba(0,0,0,.5);
+				}
+
 				#nav > ul > li > ul {
 					display: none;
 				}
